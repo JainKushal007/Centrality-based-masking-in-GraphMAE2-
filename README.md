@@ -62,10 +62,10 @@ python main_full_batch.py --dataset cora --encoder gat --decoder gat --seed 0 --
 
 The script will output training progress and final evaluation metrics:
 
-# final_acc: 0.8350±0.0000
-# early-stopping_acc: 0.8410±0.0000
-# final_auc: 0.9120±0.0000
-# early-stopping_auc: 0.9150±0.0000
+#### final_acc: 0.8350±0.0000
+#### early-stopping_acc: 0.8410±0.0000
+#### final_auc: 0.9120±0.0000
+#### early-stopping_auc: 0.9150±0.0000
 
 
 ### Reference
